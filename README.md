@@ -2,7 +2,7 @@
 
 <img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=nkateko117&show_icons=true&theme=merko"/>
 
-<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=merko"/>
+<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=merko&exclude_repo=Vehicle-Reviews-Analysis"/>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
