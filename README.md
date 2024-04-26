@@ -7,7 +7,7 @@ I am a passionate and versatile developer. I am highly skilled and proficient in
 ## 🚀 What I'm Up To
 
 - 👷 Working as a freelance frontend, backend, and mobile app developer.
-- 💻 Building the super app called DataSpider - aimed at hosting/integrading multiple related systems that serve different user needs.
+- 💻 Building a super app called DataSpider - aimed at integrating multiple related systems that serve different user needs within the DataSpider network.
 - 📊 Bulding a system (1st subset of DataSpider) that uses reinforced learning and neural networks (deep learning) to make forex market predictions.
 
 Check out my TEMPORAL [coding portfolio!](https://nkateko117.github.io/)
