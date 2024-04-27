@@ -49,9 +49,13 @@ Libraries/Frameworks:
 
 # 📊 My GitHub Stats
 
-<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=nkateko117&show_icons=true&theme=merko"/>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkateko117&theme=gotham) -->
 
-<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=merko&exclude_repo=Vehicle-Reviews-Analysis"/>
+<img alt="my stats" align="left" width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkateko117&theme=gotham"/>
+
+<img alt="my stats" align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=gotham&exclude_repo=Vehicle-Reviews-Analysis"/>
+
+<img alt="my stats" align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=nkateko117&show_icons=true&theme=gotham"/>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
