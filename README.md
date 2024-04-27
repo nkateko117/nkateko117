@@ -49,13 +49,14 @@ Libraries/Frameworks:
 
 # 📊 My GitHub Stats
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkateko117&theme=gotham) -->
+<!-- <img alt="my stats" align="left" width="51%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkateko117&theme=gotham"/> -->
 
-<img alt="my stats" align="left" width="51%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkateko117&theme=gotham"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nkateko117&show_icons=true&theme=gotham&hide_border=true"/>
 
-<img alt="my stats" align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=gotham&exclude_repo=Vehicle-Reviews-Analysis"/>
+<img alt="my stats" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkateko117&layout=compact&langs_count=20&theme=gotham&&hide_border=true&exclude_repo=Vehicle-Reviews-Analysis"/>
 
-<img alt="my stats" align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=nkateko117&show_icons=true&theme=gotham"/>
+<a href="https://git.io/streak-stats"><img align="left" width="47%" src="https://streak-stats.demolab.com?user=nkateko117&theme=gotham&hide_border=true&border_radius=4.4" alt="GitHub Streak" /></a>
+
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
