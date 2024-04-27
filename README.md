@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nkateko Maluleke</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkateko117&label=Profile%20views&color=0e75b6&style=flat" alt="nkateko117" /> </p>
+
 # 💫 About Me:
 I am a BCom Informatics Information Systems Graduate (2023) from the University of Pretoria. I majored in Systems Development, Systems Analysis, Advanced Statistics and Data Science.
 I am a passionate and versatile developer. I am highly skilled and proficient in Full-Stack Web, Mobile and Statistical Programming/Development.
