@@ -20,6 +20,11 @@ Currently looking for permanent employment as a developer, stats programmer or d
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkateko117/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/code.named_nfm/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nkateko117/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nkateko.maluleke03@gmail.com)
+
+
 # 💻 Tech Stack:
 Languages: 
 ![https://shields.io/docs/logos](https://img.shields.io/badge/c%23-%23338BFF.svg?style=for-the-badge&logo=c%23&logoColor=white)
