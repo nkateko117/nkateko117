@@ -3,14 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkateko117&label=Profile%20views&color=0e75b6&style=flat" alt="nkateko117" /> </p>
 
 # 💫 About Me:
-I am a BCom Informatics Information Systems Graduate (2023) from the University of Pretoria. I majored in Systems Development, Systems Analysis, Advanced Statistics and Data Science.
+I am a BCom Informatics Information Systems Graduate (2023) from the University of Pretoria. I majored in Software Development, Systems Analysis, Advanced Statistics and Data Science.
 I am a passionate and versatile developer. I am highly skilled and proficient in Full-Stack Web, Mobile and Statistical Programming/Development.
 
 ## 🚀 What I'm Up To
 
-- 👷 Working as a freelance frontend, backend, and mobile app developer.
-- 💻 Building a super app called DataSpider - aimed at integrating multiple related systems that serve different user needs within the DataSpider network.
-- 📊 Bulding a system (1st subset of DataSpider) that uses reinforced learning and neural networks (deep learning) to make financial market predictions.
+- 👷 Working full-time as a Software Engineer.
+- 📊 Bulding a system that uses reinforced learning and neural networks (deep learning) to make financial market predictions.
 
 Check out my TEMPORAL [coding portfolio!](https://nkateko117.github.io/)
 
